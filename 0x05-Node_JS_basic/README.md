@@ -482,4 +482,3 @@ bob@dylan:~$
 If you want to add test to validate your integration, you will need to add this file:  `.babelrc`
 
 Click to show/hide file contents
-
